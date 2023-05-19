@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from:https://github.com/erknkokten/erknkokten.github.io/blob/abd8e2d3e77b527a02c8c3aac6f500ac0386d4ef/files/OEK-Resume.pdf
   - /resume
 ---
 
