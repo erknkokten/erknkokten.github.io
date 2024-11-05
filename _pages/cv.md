@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download resume here](https://erknkokten.github.io/files/OEK-Resume.pdf)
+[Download resume here](https://erknkokten.github.io/files/Resume_3.pdf)
