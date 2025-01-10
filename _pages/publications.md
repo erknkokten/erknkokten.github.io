@@ -23,12 +23,12 @@ author_profile: true
 
 Highlighting some of my key contributions:
 
-1. **Title of Featured Paper 1**  
-   *Journal/Conference Name*, Year.  
+1. **Learning Extended Forecasts of Soil Water Content via Physically-Inspired Autoregressive Models**  
+   *International Conference on Machine Learning Applications (ICMLA)*, 2024.  
    [DOI or link to the paper](#)  
 
-2. **Title of Featured Paper 2**  
-   *Journal/Conference Name*, Year.  
+2. **Maximum Likelihood Estimation of Stable ARX Models using Randomized Coordinate Descent**  
+   *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.  
    [DOI or link to the paper](#)
 
 ---
