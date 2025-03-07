@@ -26,7 +26,7 @@ redirect_from:
 
 1. **Learning Extended Forecasts of Soil Water Content via Physically-Inspired Autoregressive Models**  
    *International Conference on Machine Learning Applications (ICMLA)*, 2024.  
-   [DOI or link to the paper](https://erknkokten.github.io/files/ICMLA2024.pdf)  
+   [Link to the paper](https://ieeexplore.ieee.org/document/10903312)  
 
 2. **Maximum Likelihood Estimation of Stable ARX Models using Randomized Coordinate Descent**  
    *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.  
