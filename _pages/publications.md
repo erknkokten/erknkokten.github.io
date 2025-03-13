@@ -30,7 +30,7 @@ redirect_from:
 
 2. **Maximum Likelihood Estimation of Stable ARX Models using Randomized Coordinate Descent**  
    *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.  
-   [DOI or link to the paper](https://erknkokten.github.io/files/ICASSP_2025__Learning_Stable_ARX_Model_Parameters.pdf)
+   [Link to the paper](https://ieeexplore.ieee.org/document/10888613)
 
 ---
 
