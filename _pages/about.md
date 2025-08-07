@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Ozmen Erkin Kokten is a first year PhD student in Oregon State University at Computer Science department. His studies mainly focus on Machine Learning and Optimization.
+I am a PhD student at Oregon State University in School of EECS. My main research interests are in time-series, machine learning and optimization.
